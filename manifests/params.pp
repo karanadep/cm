@@ -28,7 +28,7 @@
 class cm::params {
    $cm_username     = 'admin'
    $cm_password     = 'admin'
-   $cm_version      = 5
+   $cm_version      = '5'
    $cm_api_port     = '7180'
    $cm_cluster_name = 'karan_cluster'
    $cm_cluster_ver  = 'CDH5'
